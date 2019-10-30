@@ -12,7 +12,7 @@ int main(){
 	
 	FILE *fp_r;
 		
-	fp_r = fopen( "demo.ts","rb" );
+	fp_r = fopen( "test.ts","rb" );
 	
 	if (fp_r == NULL){
 		
